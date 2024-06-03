@@ -1,0 +1,107 @@
+ul {
+          padding-left: 1.5rem;
+        }
+      
+      h1 {
+          text-align:center;
+      }
+      
+      h5 {
+          text-align:center;
+      }
+
+      h3 {
+        text-align:center;
+      }
+      
+      #MainMenu {
+          visibility: hidden;
+      }
+      footer {
+          visibility: hidden;
+      }
+      header {
+          visibility: hidden;
+      }
+
+      .chat-message-container {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: flex-start;
+        align-items: flex-start;
+        width: 100%;
+    }
+    .chat-message-container .message {
+        margin: 5px;
+        padding: 10px;
+        border-radius: 10px;
+        background-color: #f1f1f1;
+    }
+    .user-message {
+        background-color: #c2e0c6;
+        align-self: flex-start;
+    }
+    .bot-message {
+        background-color: #a2d2ff;
+        align-self: flex-end;
+    }
+    
+    .divider {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-top: 1px solid #ccc;
+    }
+    .custom-column {
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .chat-input-container {
+        position: fixed;
+        bottom: 0
+    }
+
+    .chat-input-container input {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 8px;
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif; /* Gunakan font Poppins */
+    }
+        
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #000;
+        background-color: transparent;
+        border: 2px solid #7eccd9;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+    
+    .btn:hover {
+        background-color: #f36758;
+        color: #000;
+    }
+    .image{
+        top : 10px;
+        bottom: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
