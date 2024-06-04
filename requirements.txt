@@ -1,7 +1,7 @@
 tensorflow
 numpy
 keras.models
-keras.preprocessing.sequence
+keras.preprocessing
 pickle
 time
 PIL
