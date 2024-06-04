@@ -1,0 +1,10 @@
+tensorflow
+numpy
+keras.models
+keras.preprocessing.sequence
+pickle
+time
+PIL
+streamlit
+streamlit_option_menu
+dotenv
