@@ -1,6 +1,6 @@
-# FSTHelpBot
-FSTHelpBot adalah Chatbot layanan administrasi akademik di Fakultas Sains dan Teknologi Universitas Islam Sultan Syarif Kasim Riau.
+# FSTHelpBot adalah Chatbot layanan administrasi akademik di Fakultas Sains dan Teknologi Universitas Islam Sultan Syarif Kasim Riau.
 Chatbot ini dikembangkan dengan menggunakan arsitektur Sequence-to-Sequence dan algoritma Bidirectional Long-Short Term Memory (LSTM).
+
 
 Repository ini terdiri atas tiga folder:
 
