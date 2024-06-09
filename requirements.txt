@@ -1,10 +1,12 @@
-tensorflow
-numpy
 keras.models
-keras.preprocessing
+keras.preprocessing.sequence
 pickle
 time
 PIL
 streamlit
 streamlit_option_menu
 dotenv
+tensorflow==2.15.0
+numpy==1.25.2
+pandas==2.0.3
+numpy==1.25.2
